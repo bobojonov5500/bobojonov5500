@@ -3,19 +3,12 @@
 
 - 👯 I’m looking to collaborate on **Other developers in community**
 
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **bobojonov4664304@gmail.com**
+- 📫 How to reach me **bobojonov4664304@gmail.com**, **[@asad](https://t.me/bobojonov_5500_1)**
 
 ## 📊 Wakatime Stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asad55001&theme=github_dark&layout=compact)](https://wakatime.com/@asad55001)
 
 # [![wakatime]()
-
-**📫 How to reach out to me:**
-
-- Email: [bobojonov4664304@gmail.com](mailto:bobojonov4664304@gmail.com)
-- Telegram: [@asad](https://t.me/bobojonov_5500_1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
