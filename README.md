@@ -8,7 +8,7 @@
 ## 📊 Wakatime Stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asad55001&theme=github_dark&layout=compact)](https://wakatime.com/@asad55001)
 
-# [![wakatime](https://wakatime.com/badge/user/51883c2d-4470-4154-99cf-2ea91c739b97.svg)](https://wakatime.com/@asad55001)
+# [![wakatime](https://wakatime.com/)](https://wakatime.com/@asad55001)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
