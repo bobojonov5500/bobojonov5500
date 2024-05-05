@@ -7,6 +7,16 @@
 
 - 📫 How to reach me **bobojonov4664304@gmail.com**
 
+## 📊 Wakatime Stats:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asad55001&theme=github_dark&layout=compact)](https://wakatime.com/@asad55001)
+
+# [![wakatime]()
+
+**📫 How to reach out to me:**
+
+- Email: [bobojonov4664304@gmail.com](mailto:bobojonov4664304@gmail.com)
+- Telegram: [@asad](https://t.me/bobojonov_5500_1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/asadbobojonov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asadbobojonov1" height="30" width="40" /></a>
