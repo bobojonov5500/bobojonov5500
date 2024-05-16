@@ -9,7 +9,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asad55001&theme=github_dark&layout=compact)](https://wakatime.com/@asad55001)
 
 # [![wakatime](https://wakatime.com/badge/user/018e4050-69df-4dc2-82f5-753488f62f02.svg)](https://wakatime.com/@018e4050-69df-4dc2-82f5-753488f62f02)
-
+[![Hits](https://hits.sh/github.com/bobojonov5500.svg?labelColor=fc0a06)](https://hits.sh/github.com/bobojonov5500/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/asadbobojonov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asadbobojonov1" height="30" width="40" /></a>
